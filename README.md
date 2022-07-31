@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Goals
+
+- Understand useReducer, useState, useContext
+- Apply knowledge to a Note writing app
+- Understand differences of [react-redux](https://react-redux.js.org/) and the concepts used
+
 ## Available Scripts
 
 In the project directory, you can run:
